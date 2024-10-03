@@ -1,4 +1,6 @@
 # Project Euler
 
-Here you can find my solution to the Project Euler problems.
-For more info and the archive visit [ProjectEuler](https://projecteuler.net/archives/).
+[ProjectEuler](https://projecteuler.net/images/clipart/euler_portrait.png)
+
+Here you can find my solutions to the Project Euler problems.
+For more info and the complete archive, please visit [ProjectEuler](https://projecteuler.net/archives/).
